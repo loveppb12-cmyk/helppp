@@ -17,11 +17,11 @@ logging.basicConfig(
     level=logging.INFO
 )
 logger = logging.getLogger(__name__)
-BOT_TOKEN = "7"
+BOT_TOKEN = "8242844757:AAHqiAnNdflH6YWzaizTBpsZo4DUOr0PMMg"
 YML_FILE_PATH = ".github/workflows/main.yml"
 BINARY_FILE_NAME = "soul"
 BINARY_STORAGE_PATH = "stored_binary.bin"
-ADMIN_IDS = [1600832237, 7733336238]
+ADMIN_IDS = [8227309508, 8549583525]
 DB_PATH = "bot_database.db"
 temp_data = {}
 current_attacks = {} 
